@@ -112,6 +112,12 @@
   display: flex;
   justify-content: space-around;
 }
+.quarter_count,
+.reset_quarter, 
+.quarter_downs, 
+.reset_downs{
+  padding: .5rem;
+}
 
 .homeButtons__touchdown,
 .homeButtons__fieldGoal,
